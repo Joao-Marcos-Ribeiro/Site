@@ -34,6 +34,7 @@ st.markdown(
 st.divider()
 
 st.write("### Ferramenta de Análise de Propostas")
+st.write("##### (Em Desenvolvimento)")
 dashpropostas_url = "https://app.powerbi.com/view?r=eyJrIjoiYjRlYmNhMzktYzBmNy00MGNhLWIwYTctMTZmNDgzYzZmMjk3IiwidCI6IjVhYmU5OWNmLTczYWYtNGE2MS04ZTUwLWQzMjM5ZTBiZDM3NCJ9&pageName=c9218f635e7910d05575"
 st.markdown(
     f"""
